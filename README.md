@@ -1,4 +1,4 @@
-# SebDiReNN - Selfbuild Digit recognition neural network
+# SebDiReNN - Selfbuild Digit Recognition Neural Network
 ## A simple neural network build from scratch
 ![image](mnist_neural_network/visualizations/picture_1000.png)
 >  An example of a prediction generated with the `SebDiReNN` system
