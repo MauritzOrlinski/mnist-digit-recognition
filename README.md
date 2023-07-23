@@ -4,4 +4,4 @@
 >  An example of a prediction generated with the `SebDiReNN` system
 
 ### Summary
-In modern times, building and training a neural network with librarys like Tensorflow or similar brings a high level of abstraction. This project is my approach to get a better grip at how a neural network works.
+In modern times, building and training neural networks with libraries like Tensorflow or similar tools brings a high level of abstraction. This project is my approach to gaining a better understanding of how neural networks work.
